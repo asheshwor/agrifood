@@ -1,6 +1,6 @@
 ## Slides for the AGRIFOOD XXIII conference
 
-This repository contains the presentation slides for the [https://www.adelaide.edu.au/global-food/agrifood/](AGRIFOOD XXIII) conference to held on 7<sup>th</sup> to 10<sup>th</sup> December 2016 in Adelaide, South Australia.
+This repository contains the presentation slides for the [AGRIFOOD XXIII](https://www.adelaide.edu.au/global-food/agrifood/) conference to held on 7<sup>th</sup> to 10<sup>th</sup> December 2016 in Adelaide, South Australia.
 
 View the presentation at [http://asheshwor.github.io/agrifood](http://asheshwor.github.io/agrifood/#/)
 
