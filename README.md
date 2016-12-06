@@ -1,12 +1,10 @@
 ## Slides for the AGRIFOOD XXIII conference
 
-This repository contains the presentation slides for the [AGRIFOOD XXIII](https://www.adelaide.edu.au/global-food/agrifood/) conference to held on 7<sup>th</sup> to 10<sup>th</sup> December 2016 in Adelaide, South Australia.
+This repository contains the presentation slides for the [AGRIFOOD XXIII](https://www.adelaide.edu.au/global-food/agrifood/) conference held on 7<sup>th</sup> to 10<sup>th</sup> December 2016 at Adelaide, South Australia.
 
-View the presentation at [http://asheshwor.github.io/agrifood](http://asheshwor.github.io/agrifood/#/)
+View the presentation at [https://asheshwor.github.io/agrifood](https://asheshwor.github.io/agrifood/#/)
 
-View slides pdf: [asheshwor.github.io/agrifood/?print-pdf](http://asheshwor.github.io/agrifood/?print-pdf)
-
-Recommended browsers: Chrome, Safari, Firefox, Opera and IE10
+View slides pdf: [asheshwor.github.io/agrifood/?print-pdf](https://asheshwor.github.io/agrifood/?print-pdf)
 
 ### License for Reveal.js framework
 

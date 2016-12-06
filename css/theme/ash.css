@@ -54,11 +54,11 @@ body {
   line-height: 1.2;
   letter-spacing: -0.08em;
   /* text-transform: uppercase; */
-  text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 1.5em; }
+  font-size: 1.4em;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;}
 
 .reveal h2 {
   font-size: 1.2em; }
