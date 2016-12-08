@@ -6,6 +6,9 @@ View the presentation at [https://asheshwor.github.io/agrifood](https://asheshwo
 
 View slides pdf: [asheshwor.github.io/agrifood/?print-pdf](https://asheshwor.github.io/agrifood/?print-pdf)
 
+### Known issues
+Highchart graphs do not scale properly in Firefox.
+
 ### License for Reveal.js framework
 
 This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js) licensed under the [MIT license](https://github.com/asheshwor/agrifood/blob/master/LICENSE).
